@@ -1,0 +1,5 @@
+strands-agents>=0.1.0
+python-dotenv>=1.0.0
+slack-sdk>=3.21.0
+slack-bolt>=1.16.0
+boto3>=1.28.0
