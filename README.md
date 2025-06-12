@@ -2,6 +2,8 @@
 
 A simple Slack bot that provides expert Kubernetes troubleshooting assistance for your team using the Strands Agents SDK. This bot automatically detects Kubernetes-related questions in channels and provides detailed explanations, troubleshooting steps, and resolution commands.
 
+![kube_wiz](https://github.com/user-attachments/assets/73316058-5208-421b-85b7-cc10465165d1)
+
 ## Features
 
 - Automatically detects Kubernetes questions in Slack channels
